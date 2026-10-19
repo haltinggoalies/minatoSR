@@ -1,25 +1,14 @@
 # minatoSR
 #### Honkai: Star Rail server emulator (4.7 beta, client 4.6.51) written in Zig: a PearlSR fork with features added by haltinggoalies (shown in game as **MushiSR**)
 
-![Screenshot](Screenshot.png)
-
 ## เกี่ยวกับ repo นี้
 
 Repo นี้ fork มาจาก [HonkaiSlopRail/pearl-sr](https://git.xeondev.com/HonkaiSlopRail/pearl-sr) (ผู้พัฒนาหลัก HuLiNap)
 ต่อจาก commit `005d2c1` "Fix typo in README" ของต้นฉบับ (2026-10-16, hotfix 4.6.53 CN)
 
 - ฟีเจอร์ในหัวข้อ **ฟีเจอร์ที่ repo นี้เพิ่มเข้ามา** ทำเพิ่มใน repo นี้ทั้งหมด ไม่มีในต้นฉบับ
-  (63 commit ตั้งแต่ `ca61c7f` ถึง `c1fdac6`, ดูทั้งหมดด้วย `git log 005d2c1..Main`)
 - ฟีเจอร์ในหัวข้อ **ฟีเจอร์เดิมของ PearlSR** เป็นของต้นฉบับ
-- ทุก commit ของ repo นี้มีคำอธิบายละเอียดว่าแก้อะไร ทำไม และอ้างอิงข้อมูลจากไหน อ่าน `git log` ประกอบได้เลย
-
-### Branch
-
-| Branch | คืออะไร |
-|---|---|
-| `Main` | สายหลัก: client 4.6.51 (4.7 Beta 1) + hotfix 4.6.53 CN พร้อมฟีเจอร์ทั้งหมดด้านล่าง |
-| `gridfight-part1` | Currency Wars ส่วนที่ 1 (run loop หลัก) ยังไม่ merge แตกจาก `Main` ที่ `c9bb360` |
-| `4.5.54` | ฟีเจอร์ชุดแรกบน client 4.5.54 ก่อนย้ายมา 4.6.51 |
+- Branch `Main` รองรับ client 4.6.51 (4.7 Beta 1) + hotfix 4.6.53 CN พร้อมฟีเจอร์ทั้งหมดด้านล่าง
 
 ## ฟีเจอร์ที่ repo นี้เพิ่มเข้ามา
 
@@ -156,7 +145,7 @@ Repo นี้ fork มาจาก [HonkaiSlopRail/pearl-sr](https://git.xeonde
 
 ## งานที่ยังไม่ได้ทำ (ทำต่อได้)
 
-- Currency Wars: ส่วนที่ 1 อยู่ใน branch `gridfight-part1` ยังไม่ merge
+- Currency Wars
 - Simulated Universe / Divergent Universe
 - ระบบคลังไอเทมจริง: เมล รางวัล challenge และ Battle College ยังไม่ให้ไอเทม
 - คำสั่ง `/spawn`, `/anno`, `/language`, `/debug customP` และ `/scene prop|remove|unlockall`
@@ -168,7 +157,6 @@ Repo นี้ fork มาจาก [HonkaiSlopRail/pearl-sr](https://git.xeonde
 ## แหล่งข้อมูลที่อ้างอิง
 
 March7thHoney (Mar7thLover), CapySR, ppSR, DimbreathBot/TurnBasedGameData, Prydwen และ game8
-แต่ละ commit ระบุว่าข้อมูลส่วนไหนมาจากแหล่งใด
 
 ## Requirements
 - [Zig 0.14.1 x64](https://ziglang.org/download/0.14.1/zig-x86_64-windows-0.14.1.zip)
