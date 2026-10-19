@@ -1,5 +1,5 @@
 # minatoSR
-#### Honkai: Star Rail server emulator (4.7 beta, client 4.6.51) written in Zig: a PearlSR fork with features added by haltinggoalies (shown in game as **MushiSR**)
+#### Honkai: Star Rail server emulator (4.7 beta, client 4.6.5x) written in Zig: a PearlSR fork with features added by haltinggoalies (shown in game as **MushiSR**)
 
 ## เกี่ยวกับ repo นี้
 
@@ -8,7 +8,7 @@ Repo นี้ fork มาจาก [HonkaiSlopRail/pearl-sr](https://git.xeonde
 
 - ฟีเจอร์ในหัวข้อ **ฟีเจอร์ที่ repo นี้เพิ่มเข้ามา** ทำเพิ่มใน repo นี้ทั้งหมด ไม่มีในต้นฉบับ
 - ฟีเจอร์ในหัวข้อ **ฟีเจอร์เดิมของ PearlSR** เป็นของต้นฉบับ
-- Branch `Main` รองรับ client 4.6.51 (4.7 Beta 1) + hotfix 4.6.53 CN พร้อมฟีเจอร์ทั้งหมดด้านล่าง
+- Branch `Main` รองรับ client 4.6.5x (4.7 Beta 1) + hotfix 4.6.53 CN พร้อมฟีเจอร์ทั้งหมดด้านล่าง
 
 ## ฟีเจอร์ที่ repo นี้เพิ่มเข้ามา
 
