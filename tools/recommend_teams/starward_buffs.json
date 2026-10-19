@@ -1,0 +1,533 @@
+{
+  "_note": "Starward node buffs; the client's \"Replace\" ignores a recommended team whose node has no valid buff. AS: Node 1-3 = BuffList1-3 of ChallengeBossGroupExtra (4.6 log, 30205: 3111092 / 3111058 / 3111079). PF: every node picks from the same BuffList of ChallengeStoryGroupExtra (4.7 log, 20285: 3031354 / 3031366 / 3031354). MoC sends no buff. IDs: DimbreathBot/TurnBasedGameData ExcelOutput (live 4.6: AS 3018-3021, PF 2022-2027); AS 3022/3023 and PF 2028 (4.7 beta) mapped by name from nanoka.cc 4.6.51 boss/<group>.json and story/<group>.json, new buffs without a known ID are 0. Recommended teams use each node's first buff.",
+  "stages": {
+    "20245": {
+      "group": 2024,
+      "name": "PF 2024",
+      "nodes": [
+        [
+          {
+            "id": 3031359,
+            "name": "Toccata"
+          },
+          {
+            "id": 3031362,
+            "name": "Mirthful Cadence"
+          },
+          {
+            "id": 3031361,
+            "name": "Variation"
+          }
+        ],
+        [
+          {
+            "id": 3031359,
+            "name": "Toccata"
+          },
+          {
+            "id": 3031362,
+            "name": "Mirthful Cadence"
+          },
+          {
+            "id": 3031361,
+            "name": "Variation"
+          }
+        ],
+        [
+          {
+            "id": 3031359,
+            "name": "Toccata"
+          },
+          {
+            "id": 3031362,
+            "name": "Mirthful Cadence"
+          },
+          {
+            "id": 3031361,
+            "name": "Variation"
+          }
+        ]
+      ]
+    },
+    "20255": {
+      "group": 2025,
+      "name": "PF 2025",
+      "nodes": [
+        [
+          {
+            "id": 3031363,
+            "name": "Smack Talk"
+          },
+          {
+            "id": 3031364,
+            "name": "Grand Rhetoric"
+          },
+          {
+            "id": 3031365,
+            "name": "Motormouth"
+          }
+        ],
+        [
+          {
+            "id": 3031363,
+            "name": "Smack Talk"
+          },
+          {
+            "id": 3031364,
+            "name": "Grand Rhetoric"
+          },
+          {
+            "id": 3031365,
+            "name": "Motormouth"
+          }
+        ],
+        [
+          {
+            "id": 3031363,
+            "name": "Smack Talk"
+          },
+          {
+            "id": 3031364,
+            "name": "Grand Rhetoric"
+          },
+          {
+            "id": 3031365,
+            "name": "Motormouth"
+          }
+        ]
+      ]
+    },
+    "20265": {
+      "group": 2026,
+      "name": "PF 2026",
+      "nodes": [
+        [
+          {
+            "id": 3031353,
+            "name": "Euphoria"
+          },
+          {
+            "id": 3031354,
+            "name": "Delirium"
+          },
+          {
+            "id": 3031366,
+            "name": "Riddle Fanatic"
+          }
+        ],
+        [
+          {
+            "id": 3031353,
+            "name": "Euphoria"
+          },
+          {
+            "id": 3031354,
+            "name": "Delirium"
+          },
+          {
+            "id": 3031366,
+            "name": "Riddle Fanatic"
+          }
+        ],
+        [
+          {
+            "id": 3031353,
+            "name": "Euphoria"
+          },
+          {
+            "id": 3031354,
+            "name": "Delirium"
+          },
+          {
+            "id": 3031366,
+            "name": "Riddle Fanatic"
+          }
+        ]
+      ]
+    },
+    "20275": {
+      "group": 2027,
+      "name": "PF 2027",
+      "nodes": [
+        [
+          {
+            "id": 3031359,
+            "name": "Toccata"
+          },
+          {
+            "id": 3031362,
+            "name": "Mirthful Cadence"
+          },
+          {
+            "id": 3031360,
+            "name": "Fugato"
+          }
+        ],
+        [
+          {
+            "id": 3031359,
+            "name": "Toccata"
+          },
+          {
+            "id": 3031362,
+            "name": "Mirthful Cadence"
+          },
+          {
+            "id": 3031360,
+            "name": "Fugato"
+          }
+        ],
+        [
+          {
+            "id": 3031359,
+            "name": "Toccata"
+          },
+          {
+            "id": 3031362,
+            "name": "Mirthful Cadence"
+          },
+          {
+            "id": 3031360,
+            "name": "Fugato"
+          }
+        ]
+      ]
+    },
+    "20285": {
+      "group": 2028,
+      "name": "Fiction Made Truth",
+      "nodes": [
+        [
+          {
+            "id": 3031353,
+            "name": "Euphoria"
+          },
+          {
+            "id": 3031354,
+            "name": "Delirium"
+          },
+          {
+            "id": 3031366,
+            "name": "Riddle Fanatic"
+          }
+        ],
+        [
+          {
+            "id": 3031353,
+            "name": "Euphoria"
+          },
+          {
+            "id": 3031354,
+            "name": "Delirium"
+          },
+          {
+            "id": 3031366,
+            "name": "Riddle Fanatic"
+          }
+        ],
+        [
+          {
+            "id": 3031353,
+            "name": "Euphoria"
+          },
+          {
+            "id": 3031354,
+            "name": "Delirium"
+          },
+          {
+            "id": 3031366,
+            "name": "Riddle Fanatic"
+          }
+        ]
+      ]
+    },
+    "30185": {
+      "group": 3018,
+      "name": "Gale of Forgetting",
+      "nodes": [
+        [
+          {
+            "id": 3111090,
+            "name": "Comic Relief"
+          },
+          {
+            "id": 3111091,
+            "name": "Exploit Opening"
+          },
+          {
+            "id": 3111086,
+            "name": "Collapse on Sight"
+          }
+        ],
+        [
+          {
+            "id": 3111068,
+            "name": "Armed Up"
+          },
+          {
+            "id": 3111089,
+            "name": "Beaming Bliss"
+          },
+          {
+            "id": 3111085,
+            "name": "Moment of Opportunity"
+          }
+        ],
+        [
+          {
+            "id": 3111082,
+            "name": "Knowledge and Decorum"
+          },
+          {
+            "id": 3111058,
+            "name": "Blighted to the Bone"
+          },
+          {
+            "id": 3111071,
+            "name": "Brand of Anamnesis"
+          }
+        ]
+      ]
+    },
+    "30195": {
+      "group": 3019,
+      "name": "Vanguard Knight",
+      "nodes": [
+        [
+          {
+            "id": 3111077,
+            "name": "Shatterstrike"
+          },
+          {
+            "id": 3111078,
+            "name": "Linebreaker"
+          },
+          {
+            "id": 3111058,
+            "name": "Blighted to the Bone"
+          }
+        ],
+        [
+          {
+            "id": 3111083,
+            "name": "Oppose With Tenderness"
+          },
+          {
+            "id": 3111065,
+            "name": "Unstoppable Force"
+          },
+          {
+            "id": 3111079,
+            "name": "Unto Apotheosis"
+          }
+        ],
+        [
+          {
+            "id": 3111082,
+            "name": "Knowledge and Decorum"
+          },
+          {
+            "id": 3111081,
+            "name": "Whirlwind Turn"
+          },
+          {
+            "id": 3111085,
+            "name": "Moment of Opportunity"
+          }
+        ]
+      ]
+    },
+    "30205": {
+      "group": 3020,
+      "name": "Celestial Lupine",
+      "nodes": [
+        [
+          {
+            "id": 3111092,
+            "name": "Land of Fertility"
+          },
+          {
+            "id": 3111065,
+            "name": "Unstoppable Force"
+          },
+          {
+            "id": 3111089,
+            "name": "Beaming Bliss"
+          }
+        ],
+        [
+          {
+            "id": 3111093,
+            "name": "Literary Brilliance"
+          },
+          {
+            "id": 3111080,
+            "name": "Past Life: Shadowed Reverie"
+          },
+          {
+            "id": 3111058,
+            "name": "Blighted to the Bone"
+          }
+        ],
+        [
+          {
+            "id": 3111089,
+            "name": "Beaming Bliss"
+          },
+          {
+            "id": 3111079,
+            "name": "Unto Apotheosis"
+          },
+          {
+            "id": 3111068,
+            "name": "Armed Up"
+          }
+        ]
+      ]
+    },
+    "30215": {
+      "group": 3021,
+      "name": "Dominance of Oblivion",
+      "nodes": [
+        [
+          {
+            "id": 3111094,
+            "name": "Magic Time"
+          },
+          {
+            "id": 3111086,
+            "name": "Collapse on Sight"
+          },
+          {
+            "id": 3111085,
+            "name": "Moment of Opportunity"
+          }
+        ],
+        [
+          {
+            "id": 3111090,
+            "name": "Comic Relief"
+          },
+          {
+            "id": 3111091,
+            "name": "Exploit Opening"
+          },
+          {
+            "id": 3111092,
+            "name": "Land of Fertility"
+          }
+        ],
+        [
+          {
+            "id": 3111065,
+            "name": "Unstoppable Force"
+          },
+          {
+            "id": 3111064,
+            "name": "Heroic Vanguard"
+          },
+          {
+            "id": 3111079,
+            "name": "Unto Apotheosis"
+          }
+        ]
+      ]
+    },
+    "30225": {
+      "group": 3022,
+      "name": "Navigator's Netherveil",
+      "nodes": [
+        [
+          {
+            "id": 3111094,
+            "name": "Magic Time"
+          },
+          {
+            "id": 0,
+            "name": "Empire of Wealth"
+          },
+          {
+            "id": 0,
+            "name": "Demon City's Collapse"
+          }
+        ],
+        [
+          {
+            "id": 3111065,
+            "name": "Unstoppable Force"
+          },
+          {
+            "id": 0,
+            "name": "Innervation"
+          },
+          {
+            "id": 0,
+            "name": "Unstoppable Momentum"
+          }
+        ],
+        [
+          {
+            "id": 3111092,
+            "name": "Land of Fertility"
+          },
+          {
+            "id": 3111093,
+            "name": "Literary Brilliance"
+          },
+          {
+            "id": 3111089,
+            "name": "Beaming Bliss"
+          }
+        ]
+      ]
+    },
+    "30235": {
+      "group": 3023,
+      "name": "Navigator's Netherveil",
+      "nodes": [
+        [
+          {
+            "id": 3111094,
+            "name": "Magic Time"
+          },
+          {
+            "id": 0,
+            "name": "Empire of Wealth"
+          },
+          {
+            "id": 0,
+            "name": "Demon City's Collapse"
+          }
+        ],
+        [
+          {
+            "id": 3111065,
+            "name": "Unstoppable Force"
+          },
+          {
+            "id": 0,
+            "name": "Innervation"
+          },
+          {
+            "id": 0,
+            "name": "Unstoppable Momentum"
+          }
+        ],
+        [
+          {
+            "id": 3111092,
+            "name": "Land of Fertility"
+          },
+          {
+            "id": 3111093,
+            "name": "Literary Brilliance"
+          },
+          {
+            "id": 3111089,
+            "name": "Beaming Bliss"
+          }
+        ]
+      ]
+    }
+  }
+}

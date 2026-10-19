@@ -1,0 +1,5 @@
+# Prydwen/game8 downloads, rebuilt by fetch_prydwen.py / make_starward.py
+cache/
+__pycache__/
+# local re-run of the 4.6 scripts, only used to check the 4.6 data
+pipeline/

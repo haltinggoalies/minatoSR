@@ -1,0 +1,671 @@
+{
+  "CHALLENGE_PEAK_MOB": {
+    "format": "team_list",
+    "teams": {
+      "11": [
+        {
+          "note": "K1 Aha DPS / K2 Ashveil DPS / K3 Evernight DPS (theorycraft, 4.7 beta: stage weakness + Prydwen AA 8-9 + PF/AS 4.5 and game8 4.6 archetypes)",
+          "lineups": [
+            {
+              "avatars": [1511, 1506, 1502, 1503]
+            },
+            {
+              "avatars": [1504, 1507, 1403, 1409]
+            },
+            {
+              "avatars": [1413, 1415, 1512, 1414]
+            }
+          ]
+        },
+        {
+          "note": "K1 Silver Wolf Lv.999 DPS / K2 Ashveil DPS / K3 Evernight DPS (theorycraft, 4.7 beta: stage weakness + Prydwen AA 8-9 + PF/AS 4.5 and game8 4.6 archetypes)",
+          "lineups": [
+            {
+              "avatars": [1506, 1501, 1502, 1503]
+            },
+            {
+              "avatars": [1504, 1507, 1403, 1409]
+            },
+            {
+              "avatars": [1413, 1415, 1512, 1414]
+            }
+          ]
+        },
+        {
+          "note": "K1 Castorice DPS / K2 Sparxie DPS / K3 Himeko - Nova DPS (theorycraft, 4.7 beta: stage weakness + Prydwen AA 8-9 + PF/AS 4.5 and game8 4.6 archetypes)",
+          "lineups": [
+            {
+              "avatars": [1407, 1413, 1415, 1409]
+            },
+            {
+              "avatars": [1501, 1306, 1502, 1414]
+            },
+            {
+              "avatars": [1510, 1512, 1004, 1304]
+            }
+          ]
+        },
+        {
+          "note": "K1 Aventurine - Waveflair DPS / K2 Ashveil DPS / K3 Evernight DPS (theorycraft, 4.7 beta: stage weakness + Prydwen AA 8-9 + PF/AS 4.5 and game8 4.6 archetypes)",
+          "lineups": [
+            {
+              "avatars": [1513, 8010, 1502, 1503]
+            },
+            {
+              "avatars": [1504, 1507, 1403, 1409]
+            },
+            {
+              "avatars": [1413, 1415, 1512, 1414]
+            }
+          ]
+        },
+        {
+          "note": "K1 Aha DPS / K2 Ashveil DPS / K3 Evernight DPS (theorycraft, 4.7 beta: stage weakness + Prydwen AA 8-9 + PF/AS 4.5 and game8 4.6 archetypes)",
+          "lineups": [
+            {
+              "avatars": [1511, 1501, 1502, 1503]
+            },
+            {
+              "avatars": [1504, 1507, 1403, 1409]
+            },
+            {
+              "avatars": [1413, 1415, 1512, 1414]
+            }
+          ]
+        },
+        {
+          "note": "K1 Archer DPS / K2 Ashveil DPS / K3 Himeko - Nova DPS (theorycraft, 4.7 beta: stage weakness + Prydwen AA 8-9 + PF/AS 4.5 and game8 4.6 archetypes)",
+          "lineups": [
+            {
+              "avatars": [1015, 1508, 1306, 1414]
+            },
+            {
+              "avatars": [1504, 1507, 1403, 1409]
+            },
+            {
+              "avatars": [1510, 1512, 1004, 1304]
+            }
+          ]
+        },
+        {
+          "note": "K1 Silver Wolf Lv.999 DPS / K2 Ashveil DPS / K3 Evernight DPS (theorycraft, 4.7 beta: stage weakness + Prydwen AA 8-9 + PF/AS 4.5 and game8 4.6 archetypes)",
+          "lineups": [
+            {
+              "avatars": [1506, 8010, 1502, 1217]
+            },
+            {
+              "avatars": [1504, 1507, 1403, 1409]
+            },
+            {
+              "avatars": [1413, 1415, 1512, 1414]
+            }
+          ]
+        },
+        {
+          "note": "K1 Castorice DPS / K2 Evanescia DPS / K3 Himeko - Nova DPS (theorycraft, 4.7 beta: stage weakness + Prydwen AA 8-9 + PF/AS 4.5 and game8 4.6 archetypes)",
+          "lineups": [
+            {
+              "avatars": [1407, 1413, 1512, 1409]
+            },
+            {
+              "avatars": [1505, 8010, 1502, 1503]
+            },
+            {
+              "avatars": [1510, 1306, 1313, 1414]
+            }
+          ]
+        },
+        {
+          "note": "K1 Aventurine - Waveflair DPS / K2 Sparxie DPS / K3 Himeko - Nova DPS (theorycraft, 4.7 beta: stage weakness + Prydwen AA 8-9 + PF/AS 4.5 and game8 4.6 archetypes)",
+          "lineups": [
+            {
+              "avatars": [1513, 1504, 1507, 1409]
+            },
+            {
+              "avatars": [1501, 1306, 1502, 1414]
+            },
+            {
+              "avatars": [1510, 1512, 1004, 1304]
+            }
+          ]
+        },
+        {
+          "note": "K1 Archer DPS / K2 Ashveil DPS / K3 Evernight DPS (theorycraft, 4.7 beta: stage weakness + Prydwen AA 8-9 + PF/AS 4.5 and game8 4.6 archetypes)",
+          "lineups": [
+            {
+              "avatars": [1015, 1508, 1306, 1217]
+            },
+            {
+              "avatars": [1504, 1507, 1403, 1409]
+            },
+            {
+              "avatars": [1413, 1415, 1512, 1414]
+            }
+          ]
+        },
+        {
+          "note": "K1 Aha DPS / K2 Ashveil DPS / K3 Evernight DPS (theorycraft, 4.7 beta: stage weakness + Prydwen AA 8-9 + PF/AS 4.5 and game8 4.6 archetypes)",
+          "lineups": [
+            {
+              "avatars": [1511, 8010, 1502, 1217]
+            },
+            {
+              "avatars": [1504, 1507, 1403, 1409]
+            },
+            {
+              "avatars": [1413, 1415, 1512, 1414]
+            }
+          ]
+        },
+        {
+          "note": "K1 Castorice DPS / K2 Sparxie DPS / K3 Himeko - Nova DPS (theorycraft, 4.7 beta: stage weakness + Prydwen AA 8-9 + PF/AS 4.5 and game8 4.6 archetypes)",
+          "lineups": [
+            {
+              "avatars": [1407, 1413, 1403, 1409]
+            },
+            {
+              "avatars": [1501, 1306, 1502, 1414]
+            },
+            {
+              "avatars": [1510, 1512, 1004, 1304]
+            }
+          ]
+        },
+        {
+          "note": "K1 Aha DPS / K2 Ashveil DPS / K3 Himeko - Nova DPS (theorycraft, 4.7 beta: stage weakness + Prydwen AA 8-9 + PF/AS 4.5 and game8 4.6 archetypes)",
+          "lineups": [
+            {
+              "avatars": [1511, 1506, 1502, 1503]
+            },
+            {
+              "avatars": [1504, 1507, 1403, 1409]
+            },
+            {
+              "avatars": [1510, 1306, 1313, 1414]
+            }
+          ]
+        },
+        {
+          "note": "K1 Aha DPS / K2 Firefly DPS / K3 Evernight DPS (theorycraft, 4.7 beta: stage weakness + Prydwen AA 8-9 + PF/AS 4.5 and game8 4.6 archetypes)",
+          "lineups": [
+            {
+              "avatars": [1511, 1506, 1502, 1503]
+            },
+            {
+              "avatars": [1310, 1225, 1321, 1222]
+            },
+            {
+              "avatars": [1413, 1415, 1512, 1414]
+            }
+          ]
+        },
+        {
+          "note": "K1 Silver Wolf Lv.999 DPS / K2 Ashveil DPS / K3 Himeko - Nova DPS (theorycraft, 4.7 beta: stage weakness + Prydwen AA 8-9 + PF/AS 4.5 and game8 4.6 archetypes)",
+          "lineups": [
+            {
+              "avatars": [1506, 1501, 1502, 1503]
+            },
+            {
+              "avatars": [1504, 1507, 1403, 1409]
+            },
+            {
+              "avatars": [1510, 1306, 1313, 1414]
+            }
+          ]
+        },
+        {
+          "note": "K1 Aha DPS / K2 Ashveil DPS / K3 Himeko - Nova DPS (theorycraft, 4.7 beta: stage weakness + Prydwen AA 8-9 + PF/AS 4.5 and game8 4.6 archetypes)",
+          "lineups": [
+            {
+              "avatars": [1511, 1506, 1502, 1503]
+            },
+            {
+              "avatars": [1504, 1507, 1403, 1409]
+            },
+            {
+              "avatars": [1510, 1512, 1004, 1304]
+            }
+          ]
+        },
+        {
+          "note": "K1 Aha DPS / K2 Firefly DPS / K3 Himeko - Nova DPS (theorycraft, 4.7 beta: stage weakness + Prydwen AA 8-9 + PF/AS 4.5 and game8 4.6 archetypes)",
+          "lineups": [
+            {
+              "avatars": [1511, 1506, 1502, 1503]
+            },
+            {
+              "avatars": [1310, 1225, 1321, 1222]
+            },
+            {
+              "avatars": [1510, 1306, 1313, 1414]
+            }
+          ]
+        },
+        {
+          "note": "K1 Silver Wolf Lv.999 DPS / K2 Firefly DPS / K3 Evernight DPS (theorycraft, 4.7 beta: stage weakness + Prydwen AA 8-9 + PF/AS 4.5 and game8 4.6 archetypes)",
+          "lineups": [
+            {
+              "avatars": [1506, 1501, 1502, 1503]
+            },
+            {
+              "avatars": [1310, 1225, 1321, 1222]
+            },
+            {
+              "avatars": [1413, 1415, 1512, 1414]
+            }
+          ]
+        },
+        {
+          "note": "K1 Aha DPS / K2 Saber DPS / K3 Himeko - Nova DPS (theorycraft, 4.7 beta: stage weakness + Prydwen AA 8-9 + PF/AS 4.5 and game8 4.6 archetypes)",
+          "lineups": [
+            {
+              "avatars": [1511, 1506, 1502, 1503]
+            },
+            {
+              "avatars": [1014, 1509, 1512, 1217]
+            },
+            {
+              "avatars": [1510, 1306, 1313, 1414]
+            }
+          ]
+        },
+        {
+          "note": "K1 Silver Wolf Lv.999 DPS / K2 Ashveil DPS / K3 Himeko - Nova DPS (theorycraft, 4.7 beta: stage weakness + Prydwen AA 8-9 + PF/AS 4.5 and game8 4.6 archetypes)",
+          "lineups": [
+            {
+              "avatars": [1506, 1501, 1502, 1503]
+            },
+            {
+              "avatars": [1504, 1507, 1403, 1409]
+            },
+            {
+              "avatars": [1510, 1512, 1004, 1304]
+            }
+          ]
+        },
+        {
+          "note": "K1 Silver Wolf Lv.999 DPS / K2 Firefly DPS / K3 Himeko - Nova DPS (theorycraft, 4.7 beta: stage weakness + Prydwen AA 8-9 + PF/AS 4.5 and game8 4.6 archetypes)",
+          "lineups": [
+            {
+              "avatars": [1506, 1501, 1502, 1503]
+            },
+            {
+              "avatars": [1310, 1225, 1321, 1222]
+            },
+            {
+              "avatars": [1510, 1306, 1313, 1414]
+            }
+          ]
+        },
+        {
+          "note": "K1 Castorice DPS / K2 Evanescia DPS / K3 Himeko - Nova DPS (theorycraft, 4.7 beta: stage weakness + Prydwen AA 8-9 + PF/AS 4.5 and game8 4.6 archetypes)",
+          "lineups": [
+            {
+              "avatars": [1407, 1413, 1415, 1409]
+            },
+            {
+              "avatars": [1505, 8010, 1502, 1503]
+            },
+            {
+              "avatars": [1510, 1306, 1313, 1414]
+            }
+          ]
+        },
+        {
+          "note": "K1 Aha DPS / K2 Himeko - Nova DPS / K3 Evernight DPS (theorycraft, 4.7 beta: stage weakness + Prydwen AA 8-9 + PF/AS 4.5 and game8 4.6 archetypes)",
+          "lineups": [
+            {
+              "avatars": [1511, 1506, 1502, 1503]
+            },
+            {
+              "avatars": [1510, 1306, 1313, 1414]
+            },
+            {
+              "avatars": [1413, 1415, 8008, 1304]
+            }
+          ]
+        },
+        {
+          "note": "K1 Aha DPS / K2 Firefly DPS / K3 Himeko - Nova DPS (theorycraft, 4.7 beta: stage weakness + Prydwen AA 8-9 + PF/AS 4.5 and game8 4.6 archetypes)",
+          "lineups": [
+            {
+              "avatars": [1511, 1506, 1502, 1503]
+            },
+            {
+              "avatars": [1310, 1225, 1321, 1222]
+            },
+            {
+              "avatars": [1510, 1512, 1004, 1304]
+            }
+          ]
+        },
+        {
+          "note": "K1 Aha DPS / K2 Acheron DPS / K3 Evernight DPS (theorycraft, 4.7 beta: stage weakness + Prydwen AA 8-9 + PF/AS 4.5 and game8 4.6 archetypes)",
+          "lineups": [
+            {
+              "avatars": [1511, 1506, 1502, 1503]
+            },
+            {
+              "avatars": [1308, 1507, 1403, 1409]
+            },
+            {
+              "avatars": [1413, 1415, 1512, 1414]
+            }
+          ]
+        },
+        {
+          "note": "K1 Silver Wolf Lv.999 DPS / K2 Saber DPS / K3 Himeko - Nova DPS (theorycraft, 4.7 beta: stage weakness + Prydwen AA 8-9 + PF/AS 4.5 and game8 4.6 archetypes)",
+          "lineups": [
+            {
+              "avatars": [1506, 1501, 1502, 1503]
+            },
+            {
+              "avatars": [1014, 1509, 1512, 1217]
+            },
+            {
+              "avatars": [1510, 1306, 1313, 1414]
+            }
+          ]
+        },
+        {
+          "note": "K1 Castorice DPS / K2 Firefly DPS / K3 Himeko - Nova DPS (theorycraft, 4.7 beta: stage weakness + Prydwen AA 8-9 + PF/AS 4.5 and game8 4.6 archetypes)",
+          "lineups": [
+            {
+              "avatars": [1407, 1413, 1415, 1409]
+            },
+            {
+              "avatars": [1310, 1225, 1321, 1222]
+            },
+            {
+              "avatars": [1510, 1306, 1313, 1414]
+            }
+          ]
+        },
+        {
+          "note": "K1 Aventurine - Waveflair DPS / K2 Ashveil DPS / K3 Himeko - Nova DPS (theorycraft, 4.7 beta: stage weakness + Prydwen AA 8-9 + PF/AS 4.5 and game8 4.6 archetypes)",
+          "lineups": [
+            {
+              "avatars": [1513, 8010, 1502, 1503]
+            },
+            {
+              "avatars": [1504, 1507, 1403, 1409]
+            },
+            {
+              "avatars": [1510, 1306, 1313, 1414]
+            }
+          ]
+        },
+        {
+          "note": "K1 Aha DPS / K2 Ashveil DPS / K3 Evernight DPS (theorycraft, 4.7 beta: stage weakness + Prydwen AA 8-9 + PF/AS 4.5 and game8 4.6 archetypes)",
+          "lineups": [
+            {
+              "avatars": [1511, 1506, 1502, 1503]
+            },
+            {
+              "avatars": [1504, 1507, 1403, 1409]
+            },
+            {
+              "avatars": [1413, 1415, 8008, 1304]
+            }
+          ]
+        },
+        {
+          "note": "K1 Aha DPS / K2 Firefly DPS / K3 The Herta DPS (theorycraft, 4.7 beta: stage weakness + Prydwen AA 8-9 + PF/AS 4.5 and game8 4.6 archetypes)",
+          "lineups": [
+            {
+              "avatars": [1511, 1506, 1502, 1503]
+            },
+            {
+              "avatars": [1310, 1225, 1321, 1222]
+            },
+            {
+              "avatars": [1401, 1405, 1403, 1414]
+            }
+          ]
+        },
+        {
+          "note": "K1 Aha DPS / K2 Acheron DPS / K3 Himeko - Nova DPS (theorycraft, 4.7 beta: stage weakness + Prydwen AA 8-9 + PF/AS 4.5 and game8 4.6 archetypes)",
+          "lineups": [
+            {
+              "avatars": [1511, 1506, 1502, 1503]
+            },
+            {
+              "avatars": [1308, 1507, 1403, 1409]
+            },
+            {
+              "avatars": [1510, 1306, 1313, 1414]
+            }
+          ]
+        },
+        {
+          "note": "K1 Silver Wolf Lv.999 DPS / K2 Himeko - Nova DPS / K3 Evernight DPS (theorycraft, 4.7 beta: stage weakness + Prydwen AA 8-9 + PF/AS 4.5 and game8 4.6 archetypes)",
+          "lineups": [
+            {
+              "avatars": [1506, 1501, 1502, 1503]
+            },
+            {
+              "avatars": [1510, 1306, 1313, 1414]
+            },
+            {
+              "avatars": [1413, 1415, 8008, 1304]
+            }
+          ]
+        },
+        {
+          "note": "K1 Silver Wolf Lv.999 DPS / K2 Firefly DPS / K3 Himeko - Nova DPS (theorycraft, 4.7 beta: stage weakness + Prydwen AA 8-9 + PF/AS 4.5 and game8 4.6 archetypes)",
+          "lineups": [
+            {
+              "avatars": [1506, 1501, 1502, 1503]
+            },
+            {
+              "avatars": [1310, 1225, 1321, 1222]
+            },
+            {
+              "avatars": [1510, 1512, 1004, 1304]
+            }
+          ]
+        },
+        {
+          "note": "K1 Silver Wolf Lv.999 DPS / K2 Acheron DPS / K3 Evernight DPS (theorycraft, 4.7 beta: stage weakness + Prydwen AA 8-9 + PF/AS 4.5 and game8 4.6 archetypes)",
+          "lineups": [
+            {
+              "avatars": [1506, 1501, 1502, 1503]
+            },
+            {
+              "avatars": [1308, 1507, 1403, 1409]
+            },
+            {
+              "avatars": [1413, 1415, 1512, 1414]
+            }
+          ]
+        },
+        {
+          "note": "K1 Castorice DPS / K2 Himeko - Nova DPS / K3 Sparxie DPS (theorycraft, 4.7 beta: stage weakness + Prydwen AA 8-9 + PF/AS 4.5 and game8 4.6 archetypes)",
+          "lineups": [
+            {
+              "avatars": [1407, 1413, 1415, 1409]
+            },
+            {
+              "avatars": [1510, 1306, 1313, 1414]
+            },
+            {
+              "avatars": [1501, 8010, 1502, 1503]
+            }
+          ]
+        },
+        {
+          "note": "K1 Castorice DPS / K2 Evanescia DPS / K3 Himeko - Nova DPS (theorycraft, 4.7 beta: stage weakness + Prydwen AA 8-9 + PF/AS 4.5 and game8 4.6 archetypes)",
+          "lineups": [
+            {
+              "avatars": [1407, 1413, 1415, 1409]
+            },
+            {
+              "avatars": [1505, 8010, 1502, 1503]
+            },
+            {
+              "avatars": [1510, 1512, 1004, 1304]
+            }
+          ]
+        },
+        {
+          "note": "K1 Castorice DPS / K2 Firefly DPS / K3 Sparxie DPS (theorycraft, 4.7 beta: stage weakness + Prydwen AA 8-9 + PF/AS 4.5 and game8 4.6 archetypes)",
+          "lineups": [
+            {
+              "avatars": [1407, 1413, 1415, 1409]
+            },
+            {
+              "avatars": [1310, 1225, 1321, 1222]
+            },
+            {
+              "avatars": [1501, 1306, 1502, 1414]
+            }
+          ]
+        },
+        {
+          "note": "K1 Castorice DPS / K2 Saber DPS / K3 Himeko - Nova DPS (theorycraft, 4.7 beta: stage weakness + Prydwen AA 8-9 + PF/AS 4.5 and game8 4.6 archetypes)",
+          "lineups": [
+            {
+              "avatars": [1407, 1413, 1415, 1409]
+            },
+            {
+              "avatars": [1014, 1509, 1512, 1217]
+            },
+            {
+              "avatars": [1510, 1306, 1313, 1414]
+            }
+          ]
+        },
+        {
+          "note": "K1 Aventurine - Waveflair DPS / K2 Firefly DPS / K3 Evernight DPS (theorycraft, 4.7 beta: stage weakness + Prydwen AA 8-9 + PF/AS 4.5 and game8 4.6 archetypes)",
+          "lineups": [
+            {
+              "avatars": [1513, 8010, 1502, 1503]
+            },
+            {
+              "avatars": [1310, 1225, 1321, 1222]
+            },
+            {
+              "avatars": [1413, 1415, 1512, 1414]
+            }
+          ]
+        },
+        {
+          "note": "K1 Aha DPS / K2 Ashveil DPS / K3 Himeko - Nova DPS (theorycraft, 4.7 beta: stage weakness + Prydwen AA 8-9 + PF/AS 4.5 and game8 4.6 archetypes)",
+          "lineups": [
+            {
+              "avatars": [1511, 1501, 1502, 1503]
+            },
+            {
+              "avatars": [1504, 1507, 1403, 1409]
+            },
+            {
+              "avatars": [1510, 1306, 1313, 1414]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "CHALLENGE_PEAK_BOSS": {
+    "format": "avatars_buff",
+    "teams": {
+      "11": [
+        {
+          "note": "Silver Wolf Lv.999 DPS (theorycraft, 4.7 beta: Imaginary + Fire Elation)",
+          "avatars": [1506, 1501, 1502, 1503],
+          "buff_id": 3033095
+        },
+        {
+          "note": "Aha DPS (theorycraft, 4.7 beta: Elation, new 4.7)",
+          "avatars": [1511, 1506, 1502, 1503],
+          "buff_id": 3033095
+        },
+        {
+          "note": "Himeko - Nova DPS (theorycraft, 4.7 beta: Fire, Skill/Ult DMG)",
+          "avatars": [1510, 1306, 1313, 1414],
+          "buff_id": 3033074
+        },
+        {
+          "note": "Castorice DPS (theorycraft, 4.7 beta: Tainted Remains HP loss feeds Castorice, Hyacine heals)",
+          "avatars": [1407, 1413, 1415, 1409],
+          "buff_id": 3033008
+        },
+        {
+          "note": "Himeko - Nova DPS (theorycraft, 4.7 beta: Fire + Imaginary)",
+          "avatars": [1510, 1512, 1004, 1217],
+          "buff_id": 3033074
+        },
+        {
+          "note": "Sparxie DPS (theorycraft, 4.7 beta: Fire Elation)",
+          "avatars": [1501, 1306, 1502, 1414],
+          "buff_id": 3033095
+        },
+        {
+          "note": "Evanescia DPS (theorycraft, 4.7 beta: Elation)",
+          "avatars": [1505, 8010, 1502, 1503],
+          "buff_id": 3033095
+        },
+        {
+          "note": "Aha DPS (theorycraft, 4.7 beta: Elation, new 4.7)",
+          "avatars": [1511, 1501, 1502, 1503],
+          "buff_id": 3033095
+        },
+        {
+          "note": "Saber DPS (theorycraft, 4.7 beta: Wind, Ult DMG)",
+          "avatars": [1014, 1509, 1512, 1217],
+          "buff_id": 3033074
+        },
+        {
+          "note": "Firefly DPS (theorycraft, 4.7 beta: Fire Break, Lingsha heals)",
+          "avatars": [1310, 1225, 1321, 1222],
+          "buff_id": 3033008
+        },
+        {
+          "note": "Archer DPS (theorycraft, 4.7 beta: Skill DMG)",
+          "avatars": [1015, 1508, 1306, 1414],
+          "buff_id": 3033074
+        },
+        {
+          "note": "Aventurine - Waveflair DPS (theorycraft, 4.7 beta: Elation)",
+          "avatars": [1513, 8010, 1502, 1503],
+          "buff_id": 3033095
+        },
+        {
+          "note": "Ashveil DPS (theorycraft, 4.7 beta: Mortenax Fire, Hyacine heals)",
+          "avatars": [1504, 1507, 1403, 1409],
+          "buff_id": 3033008
+        },
+        {
+          "note": "Phainon DPS (theorycraft, 4.7 beta: Skill/Ult DMG)",
+          "avatars": [1408, 1412, 1313, 1414],
+          "buff_id": 3033074
+        },
+        {
+          "note": "Castorice DPS (theorycraft, 4.7 beta: HP loss feeds Castorice)",
+          "avatars": [1407, 1413, 1512, 1409],
+          "buff_id": 3033008
+        },
+        {
+          "note": "Silver Wolf Lv.999 DPS (theorycraft, 4.7 beta: Imaginary Elation)",
+          "avatars": [1506, 8010, 1502, 1217],
+          "buff_id": 3033095
+        },
+        {
+          "note": "Hysilens DoT (theorycraft, 4.7 beta: Black Swan Wind, shields)",
+          "avatars": [1410, 1307, 1005, 1414],
+          "buff_id": 3033008
+        },
+        {
+          "note": "Evernight DPS (theorycraft, 4.7 beta: Hyacine heals)",
+          "avatars": [1413, 1415, 1512, 1409],
+          "buff_id": 3033008
+        },
+        {
+          "note": "Anaxa DPS (theorycraft, 4.7 beta: Wind, Skill DMG)",
+          "avatars": [1405, 1401, 1403, 1414],
+          "buff_id": 3033074
+        }
+      ]
+    }
+  }
+}

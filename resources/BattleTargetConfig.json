@@ -1,0 +1,9 @@
+[
+  {"id": 3000, "kind": "downed", "param": 0},
+  {"id": 3001, "kind": "cycles", "param": 4},
+  {"id": 3002, "kind": "cycles", "param": 2},
+  {"id": 3003, "kind": "cycles", "param": 6},
+  {"id": 3004, "kind": "cycles", "param": 4},
+  {"id": 3005, "kind": "cycles", "param": 2},
+  {"id": 3007, "kind": "cycles", "param": 2}
+]
